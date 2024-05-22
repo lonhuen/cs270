@@ -1,4 +1,4 @@
-# cs270
+# solidfs
 
 ## Get Started
 
